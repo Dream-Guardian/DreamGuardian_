@@ -1,0 +1,2 @@
+SSAFY 노트북 기준으로 저장경로 입니다.
+C:\Users\SSAFY\AppData\LocalLow\Blue Fish\DreamGuardian

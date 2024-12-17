@@ -1,0 +1,48 @@
+{
+    "clearDataList": [
+        {
+            "name": "bwb",
+            "isCleared": 1,
+            "killed": "31 마리",
+            "time_length": "04:51",
+            "now_stage": "Stage 1-1",
+            "time_at": "2024-10-08 오후 18:46:55",
+            "health": "53.6 %",
+            "level": "normal",
+            "playerNum": 1
+        },
+        {
+            "name": "bwb",
+            "isCleared": 1,
+            "killed": "28 마리",
+            "time_length": "03:59",
+            "now_stage": "Stage 1-1",
+            "time_at": "2024-10-10 오후 20:25:25",
+            "health": "88.8 %",
+            "level": "normal",
+            "playerNum": 3
+        },
+        {
+            "name": "bwb",
+            "isCleared": 1,
+            "killed": "38 마리",
+            "time_length": "04:29",
+            "now_stage": "Final Stage 1",
+            "time_at": "2024-10-10 오후 20:30:15",
+            "health": "23.5 %",
+            "level": "normal",
+            "playerNum": 3
+        },
+        {
+            "name": "bwb",
+            "isCleared": 1,
+            "killed": "75 마리",
+            "time_length": "07:23",
+            "now_stage": "Final Stage 1",
+            "time_at": "2024-10-10 오후 20:43:56",
+            "health": "15.6 %",
+            "level": "normal",
+            "playerNum": 3
+        }
+    ]
+}
