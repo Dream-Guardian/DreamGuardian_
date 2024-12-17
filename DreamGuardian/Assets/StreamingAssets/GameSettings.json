@@ -1,0 +1,986 @@
+{
+  "Stage 1-1": {
+    "1": {
+      "normal": {
+        "mobSpawnStart": 30,
+        "bossSpawnStart": 160,
+        "mobSpawnIntervalBeforeBoss": 8,
+        "mobSpawnIntervalAfterBoss": 5
+      },
+      "hard": {
+        "mobSpawnStart": 27.5,
+        "bossSpawnStart": 160,
+        "mobSpawnIntervalBeforeBoss": 7,
+        "mobSpawnIntervalAfterBoss": 4
+      },
+      "crazy": {
+        "mobSpawnStart": 25,
+        "bossSpawnStart": 160,
+        "mobSpawnIntervalBeforeBoss": 6,
+        "mobSpawnIntervalAfterBoss": 3
+      }
+    },
+    "2": {
+      "normal": {
+        "mobSpawnStart": 27.5,
+        "bossSpawnStart": 140,
+        "mobSpawnIntervalBeforeBoss": 7.5,
+        "mobSpawnIntervalAfterBoss": 4.5
+      },
+      "hard": {
+        "mobSpawnStart": 25,
+        "bossSpawnStart": 140,
+        "mobSpawnIntervalBeforeBoss": 6.5,
+        "mobSpawnIntervalAfterBoss": 3.5
+      },
+      "crazy": {
+        "mobSpawnStart": 22.5,
+        "bossSpawnStart": 140,
+        "mobSpawnIntervalBeforeBoss": 5.5,
+        "mobSpawnIntervalAfterBoss": 2.5
+      }
+    },
+    "3": {
+      "normal": {
+        "mobSpawnStart": 25,
+        "bossSpawnStart": 125,
+        "mobSpawnIntervalBeforeBoss": 7,
+        "mobSpawnIntervalAfterBoss": 4
+      },
+      "hard": {
+        "mobSpawnStart": 22.5,
+        "bossSpawnStart": 125,
+        "mobSpawnIntervalBeforeBoss": 6,
+        "mobSpawnIntervalAfterBoss": 3.25
+      },
+      "crazy": {
+        "mobSpawnStart": 20,
+        "bossSpawnStart": 125,
+        "mobSpawnIntervalBeforeBoss": 5,
+        "mobSpawnIntervalAfterBoss": 2
+      }
+    },
+    "4": {
+      "normal": {
+        "mobSpawnStart": 22.5,
+        "bossSpawnStart": 115,
+        "mobSpawnIntervalBeforeBoss": 6,
+        "mobSpawnIntervalAfterBoss": 4
+      },
+      "hard": {
+        "mobSpawnStart": 20,
+        "bossSpawnStart": 115,
+        "mobSpawnIntervalBeforeBoss": 5,
+        "mobSpawnIntervalAfterBoss": 3
+      },
+      "crazy": {
+        "mobSpawnStart": 17.5,
+        "bossSpawnStart": 115,
+        "mobSpawnIntervalBeforeBoss": 4,
+        "mobSpawnIntervalAfterBoss": 1.5
+      }
+    }
+  },
+  "Stage 1-2": {
+    "1": {
+      "normal": {
+        "mobSpawnStart": 30,
+        "bossSpawnStart": 160,
+        "mobSpawnIntervalBeforeBoss": 8,
+        "mobSpawnIntervalAfterBoss": 5
+      },
+      "hard": {
+        "mobSpawnStart": 27.5,
+        "bossSpawnStart": 160,
+        "mobSpawnIntervalBeforeBoss": 7,
+        "mobSpawnIntervalAfterBoss": 4
+      },
+      "crazy": {
+        "mobSpawnStart": 25,
+        "bossSpawnStart": 160,
+        "mobSpawnIntervalBeforeBoss": 6,
+        "mobSpawnIntervalAfterBoss": 3
+      }
+    },
+    "2": {
+      "normal": {
+        "mobSpawnStart": 27.5,
+        "bossSpawnStart": 140,
+        "mobSpawnIntervalBeforeBoss": 7.5,
+        "mobSpawnIntervalAfterBoss": 4.5
+      },
+      "hard": {
+        "mobSpawnStart": 25,
+        "bossSpawnStart": 140,
+        "mobSpawnIntervalBeforeBoss": 6.5,
+        "mobSpawnIntervalAfterBoss": 3.5
+      },
+      "crazy": {
+        "mobSpawnStart": 22.5,
+        "bossSpawnStart": 140,
+        "mobSpawnIntervalBeforeBoss": 5.5,
+        "mobSpawnIntervalAfterBoss": 2.5
+      }
+    },
+    "3": {
+      "normal": {
+        "mobSpawnStart": 25,
+        "bossSpawnStart": 125,
+        "mobSpawnIntervalBeforeBoss": 7,
+        "mobSpawnIntervalAfterBoss": 4
+      },
+      "hard": {
+        "mobSpawnStart": 22.5,
+        "bossSpawnStart": 125,
+        "mobSpawnIntervalBeforeBoss": 6,
+        "mobSpawnIntervalAfterBoss": 3.25
+      },
+      "crazy": {
+        "mobSpawnStart": 20,
+        "bossSpawnStart": 125,
+        "mobSpawnIntervalBeforeBoss": 5,
+        "mobSpawnIntervalAfterBoss": 2
+      }
+    },
+    "4": {
+      "normal": {
+        "mobSpawnStart": 22.5,
+        "bossSpawnStart": 115,
+        "mobSpawnIntervalBeforeBoss": 6,
+        "mobSpawnIntervalAfterBoss": 4
+      },
+      "hard": {
+        "mobSpawnStart": 20,
+        "bossSpawnStart": 115,
+        "mobSpawnIntervalBeforeBoss": 5,
+        "mobSpawnIntervalAfterBoss": 3
+      },
+      "crazy": {
+        "mobSpawnStart": 17.5,
+        "bossSpawnStart": 115,
+        "mobSpawnIntervalBeforeBoss": 4,
+        "mobSpawnIntervalAfterBoss": 1.5
+      }
+    }
+  },
+  "Stage 1-3": {
+    "1": {
+      "normal": {
+        "mobSpawnStart": 30,
+        "bossSpawnStart": 160,
+        "mobSpawnIntervalBeforeBoss": 8,
+        "mobSpawnIntervalAfterBoss": 5
+      },
+      "hard": {
+        "mobSpawnStart": 27.5,
+        "bossSpawnStart": 160,
+        "mobSpawnIntervalBeforeBoss": 7,
+        "mobSpawnIntervalAfterBoss": 4
+      },
+      "crazy": {
+        "mobSpawnStart": 25,
+        "bossSpawnStart": 160,
+        "mobSpawnIntervalBeforeBoss": 6,
+        "mobSpawnIntervalAfterBoss": 3
+      }
+    },
+    "2": {
+      "normal": {
+        "mobSpawnStart": 27.5,
+        "bossSpawnStart": 140,
+        "mobSpawnIntervalBeforeBoss": 7.5,
+        "mobSpawnIntervalAfterBoss": 4.5
+      },
+      "hard": {
+        "mobSpawnStart": 25,
+        "bossSpawnStart": 140,
+        "mobSpawnIntervalBeforeBoss": 6.5,
+        "mobSpawnIntervalAfterBoss": 3.5
+      },
+      "crazy": {
+        "mobSpawnStart": 22.5,
+        "bossSpawnStart": 140,
+        "mobSpawnIntervalBeforeBoss": 5.5,
+        "mobSpawnIntervalAfterBoss": 2.5
+      }
+    },
+    "3": {
+      "normal": {
+        "mobSpawnStart": 25,
+        "bossSpawnStart": 125,
+        "mobSpawnIntervalBeforeBoss": 7,
+        "mobSpawnIntervalAfterBoss": 4
+      },
+      "hard": {
+        "mobSpawnStart": 22.5,
+        "bossSpawnStart": 125,
+        "mobSpawnIntervalBeforeBoss": 6,
+        "mobSpawnIntervalAfterBoss": 3.25
+      },
+      "crazy": {
+        "mobSpawnStart": 20,
+        "bossSpawnStart": 125,
+        "mobSpawnIntervalBeforeBoss": 5,
+        "mobSpawnIntervalAfterBoss": 2
+      }
+    },
+    "4": {
+      "normal": {
+        "mobSpawnStart": 22.5,
+        "bossSpawnStart": 115,
+        "mobSpawnIntervalBeforeBoss": 6,
+        "mobSpawnIntervalAfterBoss": 4
+      },
+      "hard": {
+        "mobSpawnStart": 20,
+        "bossSpawnStart": 115,
+        "mobSpawnIntervalBeforeBoss": 5,
+        "mobSpawnIntervalAfterBoss": 3
+      },
+      "crazy": {
+        "mobSpawnStart": 17.5,
+        "bossSpawnStart": 115,
+        "mobSpawnIntervalBeforeBoss": 4,
+        "mobSpawnIntervalAfterBoss": 1.5
+      }
+    }
+  },
+  "Stage 2-1": {
+    "1": {
+      "normal": {
+        "mobSpawnStart": 30,
+        "bossSpawnStart": 160,
+        "mobSpawnIntervalBeforeBoss": 8,
+        "mobSpawnIntervalAfterBoss": 5
+      },
+      "hard": {
+        "mobSpawnStart": 27.5,
+        "bossSpawnStart": 160,
+        "mobSpawnIntervalBeforeBoss": 7,
+        "mobSpawnIntervalAfterBoss": 4
+      },
+      "crazy": {
+        "mobSpawnStart": 25,
+        "bossSpawnStart": 160,
+        "mobSpawnIntervalBeforeBoss": 6,
+        "mobSpawnIntervalAfterBoss": 3
+      }
+    },
+    "2": {
+      "normal": {
+        "mobSpawnStart": 27.5,
+        "bossSpawnStart": 140,
+        "mobSpawnIntervalBeforeBoss": 7.5,
+        "mobSpawnIntervalAfterBoss": 4.5
+      },
+      "hard": {
+        "mobSpawnStart": 25,
+        "bossSpawnStart": 140,
+        "mobSpawnIntervalBeforeBoss": 6.5,
+        "mobSpawnIntervalAfterBoss": 3.5
+      },
+      "crazy": {
+        "mobSpawnStart": 22.5,
+        "bossSpawnStart": 140,
+        "mobSpawnIntervalBeforeBoss": 5.5,
+        "mobSpawnIntervalAfterBoss": 2.5
+      }
+    },
+    "3": {
+      "normal": {
+        "mobSpawnStart": 25,
+        "bossSpawnStart": 125,
+        "mobSpawnIntervalBeforeBoss": 7,
+        "mobSpawnIntervalAfterBoss": 4
+      },
+      "hard": {
+        "mobSpawnStart": 22.5,
+        "bossSpawnStart": 125,
+        "mobSpawnIntervalBeforeBoss": 6,
+        "mobSpawnIntervalAfterBoss": 3.25
+      },
+      "crazy": {
+        "mobSpawnStart": 20,
+        "bossSpawnStart": 125,
+        "mobSpawnIntervalBeforeBoss": 5,
+        "mobSpawnIntervalAfterBoss": 2
+      }
+    },
+    "4": {
+      "normal": {
+        "mobSpawnStart": 22.5,
+        "bossSpawnStart": 115,
+        "mobSpawnIntervalBeforeBoss": 6,
+        "mobSpawnIntervalAfterBoss": 4
+      },
+      "hard": {
+        "mobSpawnStart": 20,
+        "bossSpawnStart": 115,
+        "mobSpawnIntervalBeforeBoss": 5,
+        "mobSpawnIntervalAfterBoss": 3
+      },
+      "crazy": {
+        "mobSpawnStart": 17.5,
+        "bossSpawnStart": 115,
+        "mobSpawnIntervalBeforeBoss": 4,
+        "mobSpawnIntervalAfterBoss": 1.5
+      }
+    }
+  },
+  "Stage 2-2": {
+    "1": {
+      "normal": {
+        "mobSpawnStart": 30,
+        "bossSpawnStart": 160,
+        "mobSpawnIntervalBeforeBoss": 8,
+        "mobSpawnIntervalAfterBoss": 5
+      },
+      "hard": {
+        "mobSpawnStart": 27.5,
+        "bossSpawnStart": 160,
+        "mobSpawnIntervalBeforeBoss": 7,
+        "mobSpawnIntervalAfterBoss": 4
+      },
+      "crazy": {
+        "mobSpawnStart": 25,
+        "bossSpawnStart": 160,
+        "mobSpawnIntervalBeforeBoss": 6,
+        "mobSpawnIntervalAfterBoss": 3
+      }
+    },
+    "2": {
+      "normal": {
+        "mobSpawnStart": 27.5,
+        "bossSpawnStart": 140,
+        "mobSpawnIntervalBeforeBoss": 7.5,
+        "mobSpawnIntervalAfterBoss": 4.5
+      },
+      "hard": {
+        "mobSpawnStart": 25,
+        "bossSpawnStart": 140,
+        "mobSpawnIntervalBeforeBoss": 6.5,
+        "mobSpawnIntervalAfterBoss": 3.5
+      },
+      "crazy": {
+        "mobSpawnStart": 22.5,
+        "bossSpawnStart": 140,
+        "mobSpawnIntervalBeforeBoss": 5.5,
+        "mobSpawnIntervalAfterBoss": 2.5
+      }
+    },
+    "3": {
+      "normal": {
+        "mobSpawnStart": 25,
+        "bossSpawnStart": 125,
+        "mobSpawnIntervalBeforeBoss": 7,
+        "mobSpawnIntervalAfterBoss": 4
+      },
+      "hard": {
+        "mobSpawnStart": 22.5,
+        "bossSpawnStart": 125,
+        "mobSpawnIntervalBeforeBoss": 6,
+        "mobSpawnIntervalAfterBoss": 3.25
+      },
+      "crazy": {
+        "mobSpawnStart": 20,
+        "bossSpawnStart": 125,
+        "mobSpawnIntervalBeforeBoss": 5,
+        "mobSpawnIntervalAfterBoss": 2
+      }
+    },
+    "4": {
+      "normal": {
+        "mobSpawnStart": 22.5,
+        "bossSpawnStart": 115,
+        "mobSpawnIntervalBeforeBoss": 6,
+        "mobSpawnIntervalAfterBoss": 4
+      },
+      "hard": {
+        "mobSpawnStart": 20,
+        "bossSpawnStart": 115,
+        "mobSpawnIntervalBeforeBoss": 5,
+        "mobSpawnIntervalAfterBoss": 3
+      },
+      "crazy": {
+        "mobSpawnStart": 17.5,
+        "bossSpawnStart": 115,
+        "mobSpawnIntervalBeforeBoss": 4,
+        "mobSpawnIntervalAfterBoss": 1.5
+      }
+    }
+  },
+  "Stage 2-3": {
+    "1": {
+      "normal": {
+        "mobSpawnStart": 30,
+        "bossSpawnStart": 160,
+        "mobSpawnIntervalBeforeBoss": 8,
+        "mobSpawnIntervalAfterBoss": 5
+      },
+      "hard": {
+        "mobSpawnStart": 27.5,
+        "bossSpawnStart": 160,
+        "mobSpawnIntervalBeforeBoss": 7,
+        "mobSpawnIntervalAfterBoss": 4
+      },
+      "crazy": {
+        "mobSpawnStart": 25,
+        "bossSpawnStart": 160,
+        "mobSpawnIntervalBeforeBoss": 6,
+        "mobSpawnIntervalAfterBoss": 3
+      }
+    },
+    "2": {
+      "normal": {
+        "mobSpawnStart": 27.5,
+        "bossSpawnStart": 140,
+        "mobSpawnIntervalBeforeBoss": 7.5,
+        "mobSpawnIntervalAfterBoss": 4.5
+      },
+      "hard": {
+        "mobSpawnStart": 25,
+        "bossSpawnStart": 140,
+        "mobSpawnIntervalBeforeBoss": 6.5,
+        "mobSpawnIntervalAfterBoss": 3.5
+      },
+      "crazy": {
+        "mobSpawnStart": 22.5,
+        "bossSpawnStart": 140,
+        "mobSpawnIntervalBeforeBoss": 5.5,
+        "mobSpawnIntervalAfterBoss": 2.5
+      }
+    },
+    "3": {
+      "normal": {
+        "mobSpawnStart": 25,
+        "bossSpawnStart": 125,
+        "mobSpawnIntervalBeforeBoss": 7,
+        "mobSpawnIntervalAfterBoss": 4
+      },
+      "hard": {
+        "mobSpawnStart": 22.5,
+        "bossSpawnStart": 125,
+        "mobSpawnIntervalBeforeBoss": 6,
+        "mobSpawnIntervalAfterBoss": 3.25
+      },
+      "crazy": {
+        "mobSpawnStart": 20,
+        "bossSpawnStart": 125,
+        "mobSpawnIntervalBeforeBoss": 5,
+        "mobSpawnIntervalAfterBoss": 2
+      }
+    },
+    "4": {
+      "normal": {
+        "mobSpawnStart": 22.5,
+        "bossSpawnStart": 115,
+        "mobSpawnIntervalBeforeBoss": 6,
+        "mobSpawnIntervalAfterBoss": 4
+      },
+      "hard": {
+        "mobSpawnStart": 20,
+        "bossSpawnStart": 115,
+        "mobSpawnIntervalBeforeBoss": 5,
+        "mobSpawnIntervalAfterBoss": 3
+      },
+      "crazy": {
+        "mobSpawnStart": 17.5,
+        "bossSpawnStart": 115,
+        "mobSpawnIntervalBeforeBoss": 4,
+        "mobSpawnIntervalAfterBoss": 1.5
+      }
+    }
+  },
+  "Stage 2-4": {
+    "1": {
+      "normal": {
+        "mobSpawnStart": 30,
+        "bossSpawnStart": 160,
+        "mobSpawnIntervalBeforeBoss": 8,
+        "mobSpawnIntervalAfterBoss": 5
+      },
+      "hard": {
+        "mobSpawnStart": 27.5,
+        "bossSpawnStart": 160,
+        "mobSpawnIntervalBeforeBoss": 7,
+        "mobSpawnIntervalAfterBoss": 4
+      },
+      "crazy": {
+        "mobSpawnStart": 25,
+        "bossSpawnStart": 160,
+        "mobSpawnIntervalBeforeBoss": 6,
+        "mobSpawnIntervalAfterBoss": 3
+      }
+    },
+    "2": {
+      "normal": {
+        "mobSpawnStart": 27.5,
+        "bossSpawnStart": 140,
+        "mobSpawnIntervalBeforeBoss": 7.5,
+        "mobSpawnIntervalAfterBoss": 4.5
+      },
+      "hard": {
+        "mobSpawnStart": 25,
+        "bossSpawnStart": 140,
+        "mobSpawnIntervalBeforeBoss": 6.5,
+        "mobSpawnIntervalAfterBoss": 3.5
+      },
+      "crazy": {
+        "mobSpawnStart": 22.5,
+        "bossSpawnStart": 140,
+        "mobSpawnIntervalBeforeBoss": 5.5,
+        "mobSpawnIntervalAfterBoss": 2.5
+      }
+    },
+    "3": {
+      "normal": {
+        "mobSpawnStart": 25,
+        "bossSpawnStart": 125,
+        "mobSpawnIntervalBeforeBoss": 7,
+        "mobSpawnIntervalAfterBoss": 4
+      },
+      "hard": {
+        "mobSpawnStart": 22.5,
+        "bossSpawnStart": 125,
+        "mobSpawnIntervalBeforeBoss": 6,
+        "mobSpawnIntervalAfterBoss": 3.25
+      },
+      "crazy": {
+        "mobSpawnStart": 20,
+        "bossSpawnStart": 125,
+        "mobSpawnIntervalBeforeBoss": 5,
+        "mobSpawnIntervalAfterBoss": 2
+      }
+    },
+    "4": {
+      "normal": {
+        "mobSpawnStart": 22.5,
+        "bossSpawnStart": 115,
+        "mobSpawnIntervalBeforeBoss": 6,
+        "mobSpawnIntervalAfterBoss": 4
+      },
+      "hard": {
+        "mobSpawnStart": 20,
+        "bossSpawnStart": 115,
+        "mobSpawnIntervalBeforeBoss": 5,
+        "mobSpawnIntervalAfterBoss": 3
+      },
+      "crazy": {
+        "mobSpawnStart": 17.5,
+        "bossSpawnStart": 115,
+        "mobSpawnIntervalBeforeBoss": 4,
+        "mobSpawnIntervalAfterBoss": 1.5
+      }
+    }
+  },
+  "Stage 3-1": {
+    "1": {
+      "normal": {
+        "mobSpawnStart": 30,
+        "bossSpawnStart": 240,
+        "mobSpawnIntervalBeforeBoss": 8,
+        "mobSpawnIntervalAfterBoss": 5
+      },
+      "hard": {
+        "mobSpawnStart": 27.5,
+        "bossSpawnStart": 240,
+        "mobSpawnIntervalBeforeBoss": 7,
+        "mobSpawnIntervalAfterBoss": 4
+      },
+      "crazy": {
+        "mobSpawnStart": 25,
+        "bossSpawnStart": 240,
+        "mobSpawnIntervalBeforeBoss": 6,
+        "mobSpawnIntervalAfterBoss": 3
+      }
+    },
+    "2": {
+      "normal": {
+        "mobSpawnStart": 27.5,
+        "bossSpawnStart": 225,
+        "mobSpawnIntervalBeforeBoss": 7.5,
+        "mobSpawnIntervalAfterBoss": 4.5
+      },
+      "hard": {
+        "mobSpawnStart": 25,
+        "bossSpawnStart": 225,
+        "mobSpawnIntervalBeforeBoss": 6.5,
+        "mobSpawnIntervalAfterBoss": 3.5
+      },
+      "crazy": {
+        "mobSpawnStart": 22.5,
+        "bossSpawnStart": 225,
+        "mobSpawnIntervalBeforeBoss": 5.5,
+        "mobSpawnIntervalAfterBoss": 2.5
+      }
+    },
+    "3": {
+      "normal": {
+        "mobSpawnStart": 25,
+        "bossSpawnStart": 210,
+        "mobSpawnIntervalBeforeBoss": 7,
+        "mobSpawnIntervalAfterBoss": 4
+      },
+      "hard": {
+        "mobSpawnStart": 22.5,
+        "bossSpawnStart": 210,
+        "mobSpawnIntervalBeforeBoss": 6,
+        "mobSpawnIntervalAfterBoss": 3.25
+      },
+      "crazy": {
+        "mobSpawnStart": 20,
+        "bossSpawnStart": 210,
+        "mobSpawnIntervalBeforeBoss": 5,
+        "mobSpawnIntervalAfterBoss": 2
+      }
+    },
+    "4": {
+      "normal": {
+        "mobSpawnStart": 22.5,
+        "bossSpawnStart": 200,
+        "mobSpawnIntervalBeforeBoss": 6,
+        "mobSpawnIntervalAfterBoss": 4
+      },
+      "hard": {
+        "mobSpawnStart": 20,
+        "bossSpawnStart": 200,
+        "mobSpawnIntervalBeforeBoss": 5,
+        "mobSpawnIntervalAfterBoss": 3
+      },
+      "crazy": {
+        "mobSpawnStart": 17.5,
+        "bossSpawnStart": 200,
+        "mobSpawnIntervalBeforeBoss": 4,
+        "mobSpawnIntervalAfterBoss": 1.5
+      }
+    }
+  },
+  "Stage 3-2": {
+    "1": {
+      "normal": {
+        "mobSpawnStart": 30,
+        "bossSpawnStart": 240,
+        "mobSpawnIntervalBeforeBoss": 8,
+        "mobSpawnIntervalAfterBoss": 5
+      },
+      "hard": {
+        "mobSpawnStart": 27.5,
+        "bossSpawnStart": 240,
+        "mobSpawnIntervalBeforeBoss": 7,
+        "mobSpawnIntervalAfterBoss": 4
+      },
+      "crazy": {
+        "mobSpawnStart": 25,
+        "bossSpawnStart": 240,
+        "mobSpawnIntervalBeforeBoss": 6,
+        "mobSpawnIntervalAfterBoss": 3
+      }
+    },
+    "2": {
+      "normal": {
+        "mobSpawnStart": 27.5,
+        "bossSpawnStart": 225,
+        "mobSpawnIntervalBeforeBoss": 7.5,
+        "mobSpawnIntervalAfterBoss": 4.5
+      },
+      "hard": {
+        "mobSpawnStart": 25,
+        "bossSpawnStart": 225,
+        "mobSpawnIntervalBeforeBoss": 6.5,
+        "mobSpawnIntervalAfterBoss": 3.5
+      },
+      "crazy": {
+        "mobSpawnStart": 22.5,
+        "bossSpawnStart": 225,
+        "mobSpawnIntervalBeforeBoss": 5.5,
+        "mobSpawnIntervalAfterBoss": 2.5
+      }
+    },
+    "3": {
+      "normal": {
+        "mobSpawnStart": 25,
+        "bossSpawnStart": 210,
+        "mobSpawnIntervalBeforeBoss": 7,
+        "mobSpawnIntervalAfterBoss": 4
+      },
+      "hard": {
+        "mobSpawnStart": 22.5,
+        "bossSpawnStart": 210,
+        "mobSpawnIntervalBeforeBoss": 6,
+        "mobSpawnIntervalAfterBoss": 3.25
+      },
+      "crazy": {
+        "mobSpawnStart": 20,
+        "bossSpawnStart": 210,
+        "mobSpawnIntervalBeforeBoss": 5,
+        "mobSpawnIntervalAfterBoss": 2
+      }
+    },
+    "4": {
+      "normal": {
+        "mobSpawnStart": 22.5,
+        "bossSpawnStart": 200,
+        "mobSpawnIntervalBeforeBoss": 6,
+        "mobSpawnIntervalAfterBoss": 4
+      },
+      "hard": {
+        "mobSpawnStart": 20,
+        "bossSpawnStart": 200,
+        "mobSpawnIntervalBeforeBoss": 5,
+        "mobSpawnIntervalAfterBoss": 3
+      },
+      "crazy": {
+        "mobSpawnStart": 17.5,
+        "bossSpawnStart": 200,
+        "mobSpawnIntervalBeforeBoss": 4,
+        "mobSpawnIntervalAfterBoss": 1.5
+      }
+    }
+  },
+  "Stage 3-3": {
+    "1": {
+      "normal": {
+        "mobSpawnStart": 30,
+        "bossSpawnStart": 240,
+        "mobSpawnIntervalBeforeBoss": 8,
+        "mobSpawnIntervalAfterBoss": 5
+      },
+      "hard": {
+        "mobSpawnStart": 27.5,
+        "bossSpawnStart": 240,
+        "mobSpawnIntervalBeforeBoss": 7,
+        "mobSpawnIntervalAfterBoss": 4
+      },
+      "crazy": {
+        "mobSpawnStart": 25,
+        "bossSpawnStart": 240,
+        "mobSpawnIntervalBeforeBoss": 6,
+        "mobSpawnIntervalAfterBoss": 3
+      }
+    },
+    "2": {
+      "normal": {
+        "mobSpawnStart": 27.5,
+        "bossSpawnStart": 225,
+        "mobSpawnIntervalBeforeBoss": 7.5,
+        "mobSpawnIntervalAfterBoss": 4.5
+      },
+      "hard": {
+        "mobSpawnStart": 25,
+        "bossSpawnStart": 225,
+        "mobSpawnIntervalBeforeBoss": 6.5,
+        "mobSpawnIntervalAfterBoss": 3.5
+      },
+      "crazy": {
+        "mobSpawnStart": 22.5,
+        "bossSpawnStart": 225,
+        "mobSpawnIntervalBeforeBoss": 5.5,
+        "mobSpawnIntervalAfterBoss": 2.5
+      }
+    },
+    "3": {
+      "normal": {
+        "mobSpawnStart": 25,
+        "bossSpawnStart": 210,
+        "mobSpawnIntervalBeforeBoss": 7,
+        "mobSpawnIntervalAfterBoss": 4
+      },
+      "hard": {
+        "mobSpawnStart": 22.5,
+        "bossSpawnStart": 210,
+        "mobSpawnIntervalBeforeBoss": 6,
+        "mobSpawnIntervalAfterBoss": 3.25
+      },
+      "crazy": {
+        "mobSpawnStart": 20,
+        "bossSpawnStart": 210,
+        "mobSpawnIntervalBeforeBoss": 5,
+        "mobSpawnIntervalAfterBoss": 2
+      }
+    },
+    "4": {
+      "normal": {
+        "mobSpawnStart": 22.5,
+        "bossSpawnStart": 200,
+        "mobSpawnIntervalBeforeBoss": 6,
+        "mobSpawnIntervalAfterBoss": 4
+      },
+      "hard": {
+        "mobSpawnStart": 20,
+        "bossSpawnStart": 200,
+        "mobSpawnIntervalBeforeBoss": 5,
+        "mobSpawnIntervalAfterBoss": 3
+      },
+      "crazy": {
+        "mobSpawnStart": 17.5,
+        "bossSpawnStart": 200,
+        "mobSpawnIntervalBeforeBoss": 4,
+        "mobSpawnIntervalAfterBoss": 1.5
+      }
+    }
+  },
+  "Final Stage 1": {
+    "1": {
+      "normal": {
+        "mobSpawnStart": 30,
+        "bossSpawnStart": 250,
+        "mobSpawnIntervalBeforeBoss": 8,
+        "mobSpawnIntervalAfterBoss": 5
+      },
+      "hard": {
+        "mobSpawnStart": 27.5,
+        "bossSpawnStart": 250,
+        "mobSpawnIntervalBeforeBoss": 7,
+        "mobSpawnIntervalAfterBoss": 4
+      },
+      "crazy": {
+        "mobSpawnStart": 25,
+        "bossSpawnStart": 250,
+        "mobSpawnIntervalBeforeBoss": 6,
+        "mobSpawnIntervalAfterBoss": 3
+      }
+    },
+    "2": {
+      "normal": {
+        "mobSpawnStart": 27.5,
+        "bossSpawnStart": 230,
+        "mobSpawnIntervalBeforeBoss": 7.5,
+        "mobSpawnIntervalAfterBoss": 4.5
+      },
+      "hard": {
+        "mobSpawnStart": 25,
+        "bossSpawnStart": 230,
+        "mobSpawnIntervalBeforeBoss": 6.5,
+        "mobSpawnIntervalAfterBoss": 3.5
+      },
+      "crazy": {
+        "mobSpawnStart": 22.5,
+        "bossSpawnStart": 230,
+        "mobSpawnIntervalBeforeBoss": 5.5,
+        "mobSpawnIntervalAfterBoss": 2.5
+      }
+    },
+    "3": {
+      "normal": {
+        "mobSpawnStart": 25,
+        "bossSpawnStart": 220,
+        "mobSpawnIntervalBeforeBoss": 7,
+        "mobSpawnIntervalAfterBoss": 4
+      },
+      "hard": {
+        "mobSpawnStart": 22.5,
+        "bossSpawnStart": 220,
+        "mobSpawnIntervalBeforeBoss": 6,
+        "mobSpawnIntervalAfterBoss": 3
+      },
+      "crazy": {
+        "mobSpawnStart": 20,
+        "bossSpawnStart": 220,
+        "mobSpawnIntervalBeforeBoss": 5,
+        "mobSpawnIntervalAfterBoss": 2
+      }
+    },
+    "4": {
+      "normal": {
+        "mobSpawnStart": 22.5,
+        "bossSpawnStart": 210,
+        "mobSpawnIntervalBeforeBoss": 6,
+        "mobSpawnIntervalAfterBoss": 4
+      },
+      "hard": {
+        "mobSpawnStart": 20,
+        "bossSpawnStart": 210,
+        "mobSpawnIntervalBeforeBoss": 5,
+        "mobSpawnIntervalAfterBoss": 2.5
+      },
+      "crazy": {
+        "mobSpawnStart": 17.5,
+        "bossSpawnStart": 210,
+        "mobSpawnIntervalBeforeBoss": 4,
+        "mobSpawnIntervalAfterBoss": 1
+      }
+    }
+  },
+  "Final Stage 2": {
+    "1": {
+      "normal": {
+        "mobSpawnStart": 30,
+        "bossSpawnStart": 250,
+        "mobSpawnIntervalBeforeBoss": 8,
+        "mobSpawnIntervalAfterBoss": 5
+      },
+      "hard": {
+        "mobSpawnStart": 27.5,
+        "bossSpawnStart": 250,
+        "mobSpawnIntervalBeforeBoss": 7,
+        "mobSpawnIntervalAfterBoss": 4
+      },
+      "crazy": {
+        "mobSpawnStart": 25,
+        "bossSpawnStart": 250,
+        "mobSpawnIntervalBeforeBoss": 6,
+        "mobSpawnIntervalAfterBoss": 3
+      }
+    },
+    "2": {
+      "normal": {
+        "mobSpawnStart": 27.5,
+        "bossSpawnStart": 230,
+        "mobSpawnIntervalBeforeBoss": 7.5,
+        "mobSpawnIntervalAfterBoss": 4.5
+      },
+      "hard": {
+        "mobSpawnStart": 25,
+        "bossSpawnStart": 230,
+        "mobSpawnIntervalBeforeBoss": 6.5,
+        "mobSpawnIntervalAfterBoss": 3.5
+      },
+      "crazy": {
+        "mobSpawnStart": 22.5,
+        "bossSpawnStart": 230,
+        "mobSpawnIntervalBeforeBoss": 5.5,
+        "mobSpawnIntervalAfterBoss": 2.5
+      }
+    },
+    "3": {
+      "normal": {
+        "mobSpawnStart": 25,
+        "bossSpawnStart": 220,
+        "mobSpawnIntervalBeforeBoss": 7,
+        "mobSpawnIntervalAfterBoss": 4
+      },
+      "hard": {
+        "mobSpawnStart": 22.5,
+        "bossSpawnStart": 220,
+        "mobSpawnIntervalBeforeBoss": 6,
+        "mobSpawnIntervalAfterBoss": 3.25
+      },
+      "crazy": {
+        "mobSpawnStart": 20,
+        "bossSpawnStart": 220,
+        "mobSpawnIntervalBeforeBoss": 5,
+        "mobSpawnIntervalAfterBoss": 2
+      }
+    },
+    "4": {
+      "normal": {
+        "mobSpawnStart": 22.5,
+        "bossSpawnStart": 210,
+        "mobSpawnIntervalBeforeBoss": 6,
+        "mobSpawnIntervalAfterBoss": 4
+      },
+      "hard": {
+        "mobSpawnStart": 20,
+        "bossSpawnStart": 210,
+        "mobSpawnIntervalBeforeBoss": 5,
+        "mobSpawnIntervalAfterBoss": 3
+      },
+      "crazy": {
+        "mobSpawnStart": 17.5,
+        "bossSpawnStart": 210,
+        "mobSpawnIntervalBeforeBoss": 4,
+        "mobSpawnIntervalAfterBoss": 1.5
+      }
+    }
+  }
+}

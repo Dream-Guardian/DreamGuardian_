@@ -1,0 +1,125 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f3758f8f58fdef43803eb9be1df0608, type: 3}
+  m_Name: PhotonServerSettings
+  m_EditorClassIdentifier: 
+  AppSettings:
+    AppIdRealtime: cbd45319-cf47-471b-a645-74c134da6d89
+    AppIdFusion: 
+    AppIdChat: 
+    AppIdVoice: 
+    AppVersion: 
+    UseNameServer: 1
+    FixedRegion: 
+    Server: 
+    Port: 0
+    ProxyServer: 
+    Protocol: 0
+    EnableProtocolFallback: 1
+    AuthMode: 0
+    EnableLobbyStatistics: 0
+    NetworkLogging: 1
+  DevRegion: kr
+  PunLogging: 0
+  EnableSupportLogger: 0
+  RunInBackground: 1
+  StartInOfflineMode: 0
+  RpcList:
+  - bareHandPT
+  - boil
+  - ChatRPC
+  - clearStackPT
+  - ClickRpc
+  - CTC
+  - CTCResult
+  - DestroyRpc
+  - DestroySpaceship
+  - diePT
+  - dropObject
+  - FCWP
+  - fillCapsule
+  - Fire
+  - FRPC_SpawnBoss
+  - FRPC_SpawnBoss2
+  - FRPC_SpawnMob
+  - FRPC_TeleportBoss
+  - FRPCUpdateHealthBar2
+  - interactionPT
+  - liftUpPT
+  - liftUpRequest
+  - liftUpResult
+  - offTurret
+  - PutDownObjectPT
+  - putDownPT
+  - putDownRequest
+  - putDownResult
+  - putInItemPT
+  - putInPotPT
+  - putInPotResult
+  - removeTopPT
+  - replacePotContent
+  - replaceTop
+  - replaceTopRequest
+  - RequestLiftUpSpawned
+  - resetOwnerBlock
+  - resetOwnerPot
+  - resetProgressBlockPT
+  - resetProgressPotPT
+  - respawnPT
+  - RespawnSpaceship
+  - RPC_SetDashingState
+  - RPC_SetMakingState
+  - RPC_SetMixingState
+  - RPC_SetSpeed
+  - RPC_SpawnBoss
+  - RPC_SpawnMob
+  - RPC_TeleportBoss
+  - RPCBackToRoom
+  - RPCCraftSound
+  - RPCGoToLevelSelect
+  - RPCGoToStageSelectCrazy
+  - RPCGoToStageSelectHard
+  - RPCGoToStageSelectNormal
+  - RPCPlayEffectETC
+  - RPCPlayEffectETC2
+  - RPCSelectStage1
+  - RPCSelectStage1_1
+  - RPCSelectStage1_2
+  - RPCSelectStage1_3
+  - RPCSelectStage2
+  - RPCSelectStage2_1
+  - RPCSelectStage2_2
+  - RPCSelectStage2_3
+  - RPCSelectStage2_4
+  - RPCSelectStage3
+  - RPCSelectStage3_1
+  - RPCSelectStage3_2
+  - RPCSelectStage3_3
+  - RPCSelectStageHidden
+  - RPCSelectStageHidden1
+  - RPCSelectStageHidden2
+  - RPCSetVariables
+  - RPCUpdateHealthBar
+  - runTurret
+  - setWarn
+  - SpawnObjectOnBlockPT
+  - SpawnObjectPotContentPT
+  - SpawnObjectPT
+  - toggleProgress
+  - trashItemPT
+  - trashObjectPT
+  - work
+  - TakeDamagePT
+  - elevatorTrigger
+  DisableAutoOpenWizard: 1
+  ShowSettings: 1
+  DevRegionSetOnce: 1

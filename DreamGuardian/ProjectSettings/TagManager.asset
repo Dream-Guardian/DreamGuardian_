@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - WorkTable
+  - CraftTable
+  - Mixer
+  - Wall
+  - Chracter
+  - TrashCan
+  - Furnace
+  - Pot
+  - Mob
+  - Boss
+  - Pedestal
+  - Body
+  - Gun
+  - Capsule
+  - Bullet
+  - Blueprint
+  - Lever
+  - Wood
+  - BlueprintBox
+  - SandBox
+  - WoodBox
+  - CapsuleBox
+  - MindStoneMine
+  - MindStone
+  - Sand
+  - Clay
+  - WoodenPlank
+  - SteelBox
+  - MeltedMindStone
+  - MeltedSteel
+  - ForgedSteel
+  - Steel
+  - BottomWall
+  - RandomBox
+  - BossBullet
+  - RandomBox
+  - Fire
+  - BurnedMindStone
+  - Barrier
+  - BossBullet
+  - DeathPanel
+  - Doll
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Boss
+  - Water
+  - UI
+  - BossBullet
+  - Mob
+  - Bullet
+  - Wall
+  - Lava
+  - Barrier
+  - Turret
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: UI
+    uniqueID: 2536351671
+    locked: 0
